@@ -5,7 +5,7 @@ from torchvision import datasets, transforms
 from torch.utils.data import DataLoader
 import matplotlib.pyplot as plt
 
-# ---------------------------------
+# ------------------------------------
 # 1. 超参数与设备配置
 # ------------------------------------
 DEVICE = "cuda" if torch.cuda.is_available() else "cpu"
