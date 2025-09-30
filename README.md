@@ -114,9 +114,6 @@ CNN Test Accuracy: 99.05%
 
 脚本运行结束后，会自动绘制并显示模型的损失（Loss）随训练轮数（Epoch）变化的曲线图，帮助你直观地评估模型的收敛情况。
 
-![Loss Curve Placeholder](https://via.placeholder.com/600x400.png/f0f0f0/333333?text=Loss+Curve+Will+Be+Displayed+Here)
-*(示例图：这里会显示你生成的实际损失曲线)*
-
 ### 性能基准
 
 一个成功实现的模型应该能达到以下近似的准确率：
